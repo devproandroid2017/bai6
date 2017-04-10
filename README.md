@@ -10,4 +10,4 @@ var i = 0;
 var test = function (){
 }
 ```
-//This is a addtition comment
+//This is a addition comment
