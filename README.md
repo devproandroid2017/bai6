@@ -12,3 +12,4 @@ var test = function (){
 
 ## Bai moi them vao o day
 ```
+//Pull or Push???
